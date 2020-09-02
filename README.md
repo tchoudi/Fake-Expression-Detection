@@ -1,2 +1,2 @@
-# Fake-Expression-Detection
-Retriving of Human Expression
+# facialexp
+Facial expression detection
